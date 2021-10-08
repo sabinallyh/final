@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 562 386" height="386" width="562">
+<path fill="#303030" d="M0 5C0 2.23858 2.23858 0 5 0H91.5201C91.5201 0 91.5201 0 91.5201 0H557C559.761 0 562 2.23858 562 5V336C562 338.761 559.761 341 557 341H91.5201C91.5201 341 91.5201 341 91.5201 341H5C2.23858 341 0 338.761 0 336V5Z"></path>
+<path fill="#6F6F6F" transform="translate(91 18)" d="M0 0H383V16H0V0Z"></path>
+<path fill="#EBEBEB" transform="translate(0 51)" d="M0 0H562V330C562 332.761 559.761 335 557 335H5C2.23858 335 0 332.761 0 330V0Z"></path>
+<circle fill="#F24822" transform="translate(19 21)" r="4.5" cy="4.5" cx="4.5"></circle>
+<circle fill="#F8D853" transform="translate(37 21)" r="4.5" cy="4.5" cx="4.5"></circle>
+<circle fill="#00D180" transform="translate(55 21)" r="4.5" cy="4.5" cx="4.5"></circle>
+<path fill="white" transform="translate(0 51)" d="M0 0H80V335H5C2.23858 335 0 332.761 0 330V0Z"></path>
+<path fill="white" transform="translate(562 51) scale(-1 1)" d="M0 0H80V335H5C2.23858 335 0 332.761 0 330V0Z"></path>
+<path fill="#1ABCFE" transform="translate(342.672 164.145)" d="M0 32.8251C0 14.7857 14.6238 0 32.6632 0V0C50.703 0 65.3271 14.7853 65.3271 32.8251V32.8251C65.3271 50.8649 50.703 65.6502 32.6632 65.6502V65.6502C14.6238 65.6502 0 50.8645 0 32.8251V32.8251Z"></path>
+<path fill="#0ACF83" transform="translate(256.771 243.248)" d="M0 32.9061C0 14.7773 14.6963 0 32.8251 0H65.3271V32.9867C65.3271 51.0262 50.7031 65.6502 32.6635 65.6502V65.6502C14.624 65.6502 0 50.9457 0 32.9061V32.9061Z"></path>
+<path fill="#FF7262" transform="translate(240.328 116) scale(-1 1) rotate(90)" d="M0 0H65.6502V32.502C65.6502 50.6308 50.9539 65.3271 32.8251 65.3271V65.3271C14.6963 65.3271 0 50.6308 0 32.502V0Z"></path>
+<path fill="#F24E1E" transform="translate(175 181.65) scale(1 -1)" d="M0 32.8251C0 14.6963 14.6963 0 32.8251 0H65.3271V65.6502H32.8251C14.6963 65.6502 0 50.9539 0 32.8251V32.8251Z"></path>
+<path fill="#A259FF" transform="translate(175 247.303) scale(1 -1)" d="M0 32.8251C0 14.6963 14.6963 0 32.8251 0H65.3271V65.6502H32.8251C14.6963 65.6502 0 50.9539 0 32.8251V32.8251Z"></path>
+<rect stroke="#30C2FF" transform="translate(255.344 242.818)" height="66.1808" width="66.0541" y="0.5" x="0.5"></rect>
+<path fill="black" transform="translate(325 313)" d="M8.08485 39.153L0 0L33.8325 20.4393L17.5552 24.8541L8.08485 39.153Z"></path>
+<path stroke-linecap="square" stroke-width="3.77049" stroke="white" transform="translate(325 313)" d="M0 0L8.08485 39.153L17.5552 24.8541L33.8325 20.4393L0 0Z"></path>
+</svg>

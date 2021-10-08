@@ -20,11 +20,7 @@ img{
         padding-bottom: 40px; 
     }
 }
-@media screen and (max-width: 992px){
-    .menu {
-        padding-left: 20px;
-    }
-}
+
 .imagebox {
     position: relative;
     color: white;
@@ -37,7 +33,6 @@ img{
   }
   .h1, h1 {
     font-size: calc(1.325rem + .9vw) !important;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
   .h2, h2 {
@@ -53,16 +48,14 @@ img{
       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
 
-  .links{
+  .readmore{
     color: black;
     font-size: large;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    float: left;
   }
 
-  .dark-mode {
-  }
-
-p{
+  .concept{
     font-size: large;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
@@ -71,7 +64,3 @@ p{
     align-items: center;
     display: flex;
   }
-
-  .nav-link {
-    font-family: serif;
-}
